@@ -3,3 +3,12 @@ hello world
 testing, this should be in tessstinggg branch
 
 this is in documenation smaller
+
+this is a commit inside my local remoteBranch1
+
+
+this is a commit inside my local subbranch_of_remoteBranch1
+
+subbranch 2 commit
+
+second commit inside my local remoteBranch2
